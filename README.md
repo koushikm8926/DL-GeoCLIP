@@ -4,7 +4,7 @@ This is a CLIP Model to classify the photos by Spain Comunidad.
 ## Installation
 Install lfs before pull the repository.
 ```bash
-pip lfs install
+git lfs install
 ```
 Install the requirements.
 ```bash
