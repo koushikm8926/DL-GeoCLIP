@@ -4,7 +4,6 @@ import tqdm
 from PIL import Image
 from transformers import CLIPModel, CLIPProcessor
 import torch
-import gc
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
